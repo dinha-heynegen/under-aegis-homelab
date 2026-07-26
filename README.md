@@ -5,7 +5,7 @@
 
 # 🛡️ Under-Aegis — Cybersecurity Homelab
 
-> A self-hosted, segmented homelab where I build, break, and defend my own infrastructure — designing zero-trust network architecture, standing up virtualization and secure remote access, deploying detection tooling, and running a full range of offensive scenarios (network, web, and Active Directory attacks).
+> A self-hosted, segmented homelab — my first-ever homelab project — where I build, break, and defend my own infrastructure: designing Zero Trust network architecture, deploying virtualization and secure remote access, implementing detection tooling, and simulating offensive security scenarios across network, web, and Active Directory environments.
 
 Hosted on **Hera**, a repurposed tower PC running **Proxmox VE**. All components follow a naming convention drawn from feminine figures in Greek mythology.
 
