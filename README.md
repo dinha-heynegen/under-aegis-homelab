@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="files/Photos_oUT9HdNV7V.png" alt="Under-Aegis logo" width="200">
+</p>
+
+
 # 🛡️ Under-Aegis — Cybersecurity Homelab
 
 > A self-hosted, segmented homelab where I build, break, and defend my own infrastructure — designing zero-trust network architecture, standing up virtualization and secure remote access, deploying detection tooling, and running a full range of offensive scenarios (network, web, and Active Directory attacks).
